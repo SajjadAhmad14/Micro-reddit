@@ -59,7 +59,7 @@ Run 'rails db:migrate'
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/LamiaSristy/Active-Record-Micro-Reddit/issues).
+Feel free to check the [issues page](https://github.com/MkrtichSargsyan/micro-reddit/issues).
 
 ## Show your support
 
